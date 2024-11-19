@@ -1,0 +1,358 @@
+[
+  {
+    "aufgabentyp": "Addition",
+    "aufgabe": "14 + 7",
+    "loesungen": ["10+10", "16+6", "21-0", "7*4"],
+    "loesung": 2,
+    "value": 0
+  },
+  {
+    "aufgabentyp": "Subtraktion",
+    "aufgabe": "22 - 9",
+    "loesungen": ["14", "13", "12", "15"],
+    "loesung": 1,
+    "value": 1
+  },
+  {
+    "aufgabentyp": "Multiplikation",
+    "aufgabe": "4 * 6",
+    "loesungen": ["3*8", "4*8", "5*5", "20+5"],
+    "loesung": 0,
+    "value": 2
+  },
+  {
+    "aufgabentyp": "Division",
+    "aufgabe": "36 / 4",
+    "loesungen": ["9", "10", "12", "8"],
+    "loesung": 0,
+    "value": 3
+  },
+  {
+    "aufgabentyp": "Addition",
+    "aufgabe": "16 + 15",
+    "loesungen": ["30", "31", "28", "29"],
+    "loesung": 1,
+    "value": 4
+  },
+  {
+    "aufgabentyp": "Multiplikation",
+    "aufgabe": "8 * 3",
+    "loesungen": ["24", "21", "26", "28"],
+    "loesung": 0,
+    "value": 5
+  },
+  {
+    "aufgabentyp": "Subtraktion",
+    "aufgabe": "20 - 5",
+    "loesungen": ["10+2", "15", "5+5", "3+7"],
+    "loesung": 1,
+    "value": 6
+  },
+  {
+    "aufgabentyp": "Division",
+    "aufgabe": "63 / 7",
+    "loesungen": ["8", "9", "10", "11"],
+    "loesung": 1,
+    "value": 7
+
+  },
+  {
+    "aufgabentyp": "Addition",
+    "aufgabe": "16 + 15",
+    "loesungen": ["30", "31", "28", "29"],
+    "loesung": 1,
+    "value": 8
+  },
+  {
+    "aufgabentyp": "Subtraktion",
+    "aufgabe": "50 - 13",
+    "loesungen": ["30+8", "50-20", "33+9", "37"],
+    "loesung": 3,
+    "value": 9
+  },
+  {
+    "aufgabentyp": "Potenz",
+    "aufgabe": "3^2",
+    "loesungen": ["7+2", "10", "3*3", "6+3"],
+    "loesung": 2,
+    "value": 10
+  },
+  {
+    "aufgabentyp": "Wurzel",
+    "aufgabe": "√49",
+    "loesungen": ["8", "7", "9", "10"],
+    "loesung": 1,
+    "value": 11
+  },
+  {
+    "aufgabentyp": "Potenz",
+    "aufgabe": "2^4",
+    "loesungen": ["10", "8+8", "15", "12"],
+    "loesung": 1,
+    "value": 12
+  },
+  {
+    "aufgabentyp": "Wurzel",
+    "aufgabe": "√64",
+    "loesungen": ["7", "8", "9", "10"],
+    "loesung": 1,
+    "value": 13
+  },
+  {
+    "aufgabentyp": "Wurzel",
+    "aufgabe": "√121",
+    "loesungen": ["10", "11", "12", "13"],
+    "loesung": 1,
+    "value": 14
+  },
+  {
+    "aufgabentyp": "Potenz",
+    "aufgabe": "3^3",
+    "loesungen": ["27", "26", "25", "24"],
+    "loesung": 0,
+    "value": 15
+  },
+  {
+    "aufgabentyp": "Potenz",
+    "aufgabe": "5^2",
+    "loesungen": ["25", "24", "23", "22"],
+    "loesung": 0,
+    "value": 16
+  },
+  {
+    "aufgabentyp": "Wurzel",
+    "aufgabe": "√169",
+    "loesungen": ["10", "11", "12", "13"],
+    "loesung": 3,
+    "value": 17
+  },
+  {
+    "aufgabentyp": "Wurzel",
+    "aufgabe": "√100",
+    "loesungen": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "loesung": 2,
+    "value": 18
+  },
+  {
+    "aufgabentyp": "Potenz",
+    "aufgabe": "4^2",
+    "loesungen": ["12", "16", "14", "18"],
+    "loesung": 1,
+    "value": 19
+  },
+  {
+    "aufgabentyp": "Brüche",
+    "aufgabe": "2/3 * 9",
+    "loesungen": ["5+3", "7+1", "6", "4+3"],
+    "loesung": 2,
+    "value": 20
+  },
+  {
+    "aufgabentyp": "Arithmetik",
+    "aufgabe": "5 + 8 - 3",
+    "loesungen": ["9", "7+2", "4*2", "10"],
+    "loesung": 3,
+    "value": 21
+  },
+  {
+    "aufgabentyp": "Arithmetik",
+    "aufgabe": "3-(-5)",
+    "loesungen": ["11","-2","8","10"],
+    "loesung": 2,
+    "value": 22
+  },
+  {
+    "aufgabentyp": "Brüche",
+    "aufgabe": "8/5 * 2",
+    "loesungen": ["61/5","16/8","61/8","16/5"],
+    "loesung": 3,
+    "value": 23
+  },
+  {
+    "aufgabentyp": "Brüche",
+    "aufgabe": "8/5 * 2",
+    "loesungen": ["61/5","16/8","61/8","16/5"],
+    "loesung": 3,
+    "value": 24
+  },
+  {
+    "aufgabentyp": "Arithmetik",
+    "aufgabe": "15 + 12 - 8",
+    "loesungen": ["19", "17", "20", "18"],
+    "loesung": 0,
+    "value": 25
+  },
+  {
+    "aufgabentyp": "Brüche",
+    "aufgabe": "3/4 * 8",
+    "loesungen": ["6", "8/3", "12/4", "10"],
+    "loesung": 0,
+    "value": 26
+  },
+  {
+    "aufgabentyp": "Arithmetik",
+    "aufgabe": "23 + 7 - 15",
+    "loesungen": ["15", "13", "16", "14"],
+    "loesung": 1,
+    "value": 27
+  },
+  {
+    "aufgabentyp": "Brüche",
+    "aufgabe": "5/2 * 3",
+    "loesungen": ["15/2", "10/3", "7", "9"],
+    "loesung": 0,
+    "value": 28
+  },
+  {
+    "aufgabentyp": "Arithmetik",
+    "aufgabe": "32 - 9 + 4",
+    "loesungen": ["27", "25", "29", "28"],
+    "loesung": 0,
+    "value": 29
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Nicht A",
+    "loesungen": ["A∧B", "¬A", "A∨B", "A→B"],
+    "loesung": 1,
+    "value": 30
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Nicht (A oder B)",
+    "loesungen": ["¬(A∨B)", "A∧B", "¬A→B", "¬(A∧B)"],
+    "loesung": 0,
+    "value": 31
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Wenn A dann B",
+    "loesungen": ["A∨B", "¬B", "A→B", "B∧¬A"],
+    "loesung": 2,
+    "value": 32
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "A oder B",
+    "loesungen": ["A∧B", "A∨B", "A→B", "¬A"],
+    "loesung": 1,
+    "value": 33
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "A∩B A={1,2,3,4}B={3,4,5,6}",
+    "loesungen": ["{1,3,5}", "{3,4}", "{5,6}", "{1,2}"],
+    "loesung": 1,
+    "value": 34
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "C ∪ D ",
+    "loesungen": ["{a,b,c,d,e}", "{c,d,e}", "{a,b}", "{a,b,c}"],
+    "loesung": 0,
+    "value": 35
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Gegeben sind die Mengen A = {1, 2, 3, 4} und B = {3, 4, 5, 6}. Welche Elemente enthält die Schnittmenge A ∩ B?",
+    "loesungen": ["{1, 2}", "{3, 4}", "{5, 6}", "{1, 3, 5}"],
+    "loesung": 1,
+    "value": 36
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Gegeben sind die Mengen C = {a, b, c} und D = {c, d, e}. Was ist die Vereinigungsmenge C ∪ D?",
+    "loesungen": ["{a, b, c, d, e}", "{c, d, e}", "{a, b}", "{a, b, c}"],
+    "loesung": 0,
+    "value": 37
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Welche der folgenden Aussagen ist eine Tautologie?",
+    "loesungen": ["A ∧ ¬A", "A ∨ ¬A", "A → (A ∧ ¬A)", "¬(A ∨ ¬A)"],
+    "loesung": 1,
+    "value": 38
+  },
+  {
+    "aufgabentyp": "Logik und Mengenlehre",
+    "aufgabe": "Welche der folgenden Aussagen ist eine Disjunktion?",
+    "loesungen": ["A ∧ B", "A ∨ B", "A → B", "¬A"],
+    "loesung": 1,
+    "value": 39
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Was ist die Wahrscheinlichkeit, eine gerade Zahl zu würfeln (2, 4, 6) mit einem fairen Würfel?",
+    "loesungen": ["1/2", "1/3", "1/6", "2/3"],
+    "loesung": 0,
+    "value": 40
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Was ist die Wahrscheinlichkeit, bei einem fairen Münzwurf Kopf zu erhalten?",
+    "loesungen": ["1/2", "1/4", "1/3", "1"],
+    "loesung": 0,
+    "value": 41
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Was ist die Wahrscheinlichkeit, beim Lotto 6 aus 49 die richtige Zahl zu tippen?",
+    "loesungen": ["1/49", "1/13983816", "1/100", "1/1000"],
+    "loesung": 1,
+    "value": 42
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "In einer Klasse sind 15 Jungen und 10 Mädchen. Was ist die Wahrscheinlichkeit, dass eine zufällig ausgewählte Person ein Mädchen ist?",
+    "loesungen": ["1/2", "2/5", "1/3", "5/8"],
+    "loesung": 1,
+    "value": 43
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "In einem Beutel befinden sich 3 rote, 2 blaue und 5 grüne Kugeln. Was ist die Wahrscheinlichkeit, eine blaue Kugel zu ziehen?",
+    "loesungen": ["1/2", "1/5", "1/3", "2/10"],
+    "loesung": 1,
+    "value": 44
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Was ist die Wahrscheinlichkeit, beim Ziehen einer Karte aus einem Standarddeck (52 Karten) ein Herz zu ziehen?",
+    "loesungen": ["1/4", "1/13", "1/52", "1/2"],
+    "loesung": 1,
+    "value": 45
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Ein Würfel wird zweimal geworfen. Was ist die Wahrscheinlichkeit, dass beide Male eine 6 geworfen wird?",
+    "loesungen": ["1/36", "1/12", "1/6", "1/3"],
+    "loesung": 0,
+    "value": 46
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "In einer Schachtel sind 8 rote, 4 blaue und 4 grüne Kugeln. Was ist die Wahrscheinlichkeit, eine blaue Kugel zu ziehen?",
+    "loesungen": ["1/2", "1/4", "1/3", "1/5"],
+    "loesung": 1,
+    "value": 47
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Ein Beutel enthält 4 rote, 6 blaue und 5 grüne Kugeln. Wenn drei Kugeln ohne Zurücklegen gezogen werden, was ist die Wahrscheinlichkeit, dass alle drei Kugeln eine unterschiedliche Farbe haben?",
+    "loesungen": ["1/7", "5/33", "1/3", "3/26"],
+    "loesung": 1,
+    "value": 48
+  },
+  {
+    "aufgabentyp": "Wahrscheinlichkeitsrechnung",
+    "aufgabe": "Ein Kartenspiel mit 52 Karten wird zweimal gezogen, ohne Zurücklegen. Was ist die Wahrscheinlichkeit, dass beide gezogenen Karten Asse sind?",
+    "loesungen": ["1/169", "1/221", "1/13", "1/663"],
+    "loesung": 1,
+    "value": 49
+  }
+]
