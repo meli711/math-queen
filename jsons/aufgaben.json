@@ -198,7 +198,7 @@
     "aufgabentyp": "Arithmetik",
     "aufgabe": "23 + 7 - 15",
     "loesungen": ["15", "13", "16", "14"],
-    "loesung": 1,
+    "loesung": 0,
     "value": 27
   },
   {

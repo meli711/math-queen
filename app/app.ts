@@ -1,5 +1,6 @@
 import {MathQueenGame, CooperativeQueen, FightQueen} from "./game";
 
+
 const TOP_LEFT = 0;
 const TOP_RIGHT = 1;
 const BOTTOM_LEFT = 2;
@@ -183,7 +184,7 @@ export function closeResults() {
  * Liest die parameter und initialisiert das Spiel.
  */
 export function initGame() {
-    const aufgabeParam = +getUrlParameter('aufgabe');
+    const aufgabeParam = getUrlParameter('aufgabe');
     const modeParam = getUrlParameter('mode');
     const player1Param = getUrlParameter('player1');
     const player2Param = getUrlParameter('player2');

@@ -62,7 +62,7 @@ export abstract class MathQueenGame {
     }
 
     /**
-     * Wird von Maus aus Keyboard Input aufgerufen.
+     * Wird von Maus, aus Keyboard Input aufgerufen.
      * @param input: Der Tip (index) auf die Lösung
      * @param player: Der Spieler der den Tip abgibt
      */
