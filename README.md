@@ -91,15 +91,15 @@ sequenceDiagram
     participant app.ts
     participant game.ts
 
-    User->>index.html: onLoad()
-    index.html->>app.ts: initializeGame()
-    app.ts->>game.html: loadGamePage()
-    game.html->>app.ts: setupGame()
-    app.ts->>game.ts: initializeGameLogic()
+    User->>index.html: load Page, config params
+    index.html->>game.html: start Game (form submit)
+    game.html->>app.ts: onLoad()
+    app.ts->>game.ts: new
+    game.ts->>app.ts: Cooperative or Fight Instance 
 
-    User->>game.html: onLoesungClick()
+    User->>game.html: onLoesungClick() or keyboardPressed()
     game.html->>app.ts: handleAnswerClick()
-    app.ts->>game.ts: processAnswer()
+    app.ts->>game.ts: onPlayerInput()
     game.ts->>app.ts: updateGameState()
     app.ts->>game.html: updateUI()
 ```
