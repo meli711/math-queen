@@ -6,6 +6,7 @@ Installation:
 * Install IntelliJ IDE Community: https://www.jetbrains.com/idea/download/other.html
 * Install Node (also all subpackages like python): https://nodejs.org/en/download/package-manager
 * checkout the code (New->Project From Version Control->https://github.com/meli711/math-queen)
+* Installation Video: https://youtu.be/juXiFbNIyDw
 
 In Project root (where the package.json is) open a terminal:
 * npm install
