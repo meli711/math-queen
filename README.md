@@ -1,6 +1,7 @@
 # math-queen
 Description:
 * Improve your math skills with this fun game – now also available in multiplayer!
+* check out my NFT: https://opensea.io/assets/base/0x900cc641eb1e693eaf0c3b53ae4382625931737e/1
 
 Installation:
 * Install IntelliJ IDE Community: https://www.jetbrains.com/idea/download/other.html
